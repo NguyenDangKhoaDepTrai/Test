@@ -1,3 +1,4 @@
 Name: Le Tran Thao Nguyen
-Hobby:
-University: BK, HCMC #new line
+Hobby: Ngu
+University: BK, HCMC
+Year: 3rd
